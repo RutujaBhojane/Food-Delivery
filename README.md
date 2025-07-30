@@ -1,4 +1,4 @@
-Food Delivery App Frontend
+**Food Delivery App Frontend **:
 A responsive and modern food delivery web application built with React.js. This project demonstrates core React concepts, state management with Context API, and a clean, user-friendly UI for browsing, filtering, and ordering food.
 
 Features
