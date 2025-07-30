@@ -1,5 +1,5 @@
-**Food Delivery App Frontend **:
-A responsive and modern food delivery web application built with React.js. This project demonstrates core React concepts, state management with Context API, and a clean, user-friendly UI for browsing, filtering, and ordering food.
+**Food Delivery App Frontend **
+ A responsive and modern food delivery web application built with React.js. This project demonstrates core React concepts, state management with Context API, and a clean, user-friendly UI for browsing, filtering, and ordering food.
 
 Features
 1. 🏠 Home Page: Browse top dishes and explore the menu.
@@ -11,11 +11,11 @@ Features
 7. 🎨 Modern UI: Clean and attractive design with smooth animations.
 
 Tech Stack
-#React.js (functional components & hooks)
-#React Router (for navigation)
-#Context API (for global state management)
-#CSS3 (Grid, Flexbox, custom animations)
-#Google Fonts (custom typography)
+1. React.js (functional components & hooks)
+2. React Router (for navigation)
+3. Context API (for global state management)
+4. CSS3 (Grid, Flexbox, custom animations)
+5. Google Fonts (custom typography)
 
 Folder Structure
 src/
