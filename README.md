@@ -17,14 +17,5 @@ Tech Stack
 4. CSS3 (Grid, Flexbox, custom animations)
 5. Google Fonts (custom typography)
 
-Folder Structure
-src/
-  assets/         # Images and static assets
-  components/     # Reusable UI components
-  context/        # Context API for global state
-  pages/          # Page-level components (Home, Cart, PlaceOrder)
-  App.jsx         # Main app component
-  index.css       # Global styles
-
 Made with ❤️ using React.js  
    
